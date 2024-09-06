@@ -24,5 +24,5 @@ The Face Recognition Based Attendance System is a cutting-edge solution designed
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Face_recognition_based_attendance_system-master.git
+   git clone https://github.com/Vamshi36819/Face_recognition_based_attendance_system-master.git
    cd Face_recognition_based_attendance_system-master
